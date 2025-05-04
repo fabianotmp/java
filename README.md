@@ -1,3 +1,3 @@
 # java
 
-![logo do java](logo.jpeg)
+![logo do java](logo.jpg)
